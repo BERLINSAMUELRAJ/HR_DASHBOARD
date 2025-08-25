@@ -1,4 +1,6 @@
-# 👩‍💼 HUMAN RESOURCE ANALYTICS DASHBOARD   
+# 👩‍💼 HUMAN RESOURCE ANALYTICS DASHBOARD
+
+![](https://github.com/BERLINSAMUELRAJ/HR_DASHBOARD/blob/main/HR-Analytics.webp)
 
 ## 🚀 Project Overview  
 This project is based on the **HR Analytics dataset**, designed to analyze **employee count, attrition, job satisfaction, income, and performance metrics** across different **departments, education levels, and job roles**.  
@@ -31,7 +33,9 @@ Using **CSV (flat file source)** and **Power BI**, we built an interactive dashb
 
 ---
 
-## 📊 Dashboards  
+## 📊 Dashboard
+
+![](https://github.com/BERLINSAMUELRAJ/HR_DASHBOARD/blob/main/Dashboard.jpg)
 
 ### 🔹 **HR Dashboard Overview**  
 **KPIs:**  
