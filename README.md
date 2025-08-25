@@ -68,13 +68,6 @@ Using **CSV (flat file source)** and **Power BI**, we built an interactive dashb
 
 ---
 
-## 📅 Timeline  
-- **Data Import & Cleaning** → 1 day  
-- **Dashboard Development** → 2 days  
-- **Insights & Documentation** → 1 day  
-
----
-
 ## 📌 References  
 - [HR Analytics Dataset](https://www.kaggle.com/datasets)  
 - [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
