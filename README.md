@@ -35,7 +35,7 @@ Using **CSV (flat file source)** and **Power BI**, we built an interactive dashb
 
 ## 📊 Dashboard
 
-![](https://github.com/BERLINSAMUELRAJ/HR_DASHBOARD/blob/main/Dashboard.jpg)
+![](https://github.com/BERLINSAMUELRAJ/HR_DASHBOARD/blob/main/Dashboard_1.jpg)
 
 ### 🔹 **HR Dashboard Overview**  
 **KPIs:**  
